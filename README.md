@@ -1,6 +1,6 @@
 👋 Hi, I’m @Kractucs
 
-👀 I’m interested in Cybersecurity, Nework, System administration, Automation ...
+👀 I’m interested in Cybersecurity, Network architecture, System administration, Automation ...
 
 🌱 I’m currently learning cybersecurity
 
