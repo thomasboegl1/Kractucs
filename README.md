@@ -1,8 +1,6 @@
 👋 Hi, I’m @Kractucs
 
-👀 I’m interested in Cybersecurity, Automation, Blockchain ...
-
-🌱 I’m currently learning NFT's on the FLOW blockchain
+👀 I’m interested in Cybersecurity, Automation, Cloud ...
 
 💞️ I’m looking to collaborate on everything that motivates me
 
