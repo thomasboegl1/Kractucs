@@ -1,4 +1,4 @@
-👋 Hi, I’m @thomasboegl1
+## 👋 Hi, I’m @thomasboegl1
 
 ⏳ 24yo  
 🏢 @baloise  
